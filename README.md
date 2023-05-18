@@ -1,6 +1,6 @@
-#Hotel Booking Analysis
+##Hotel Booking Analysis
 
-Overview
+##Overview
 
 The hotel industry generated vast amounts of data related to bookings, customer preferences, and various operational aspects. This project aimed to analyze hotel booking data to uncover hidden patterns, trends, and insights. By leveraging data analytics techniques, we sought to gain a deeper understanding of customer behavior, booking patterns, and factors influencing hotel occupancy.
 
