@@ -1,23 +1,23 @@
-##**Hotel Booking Analysis**
+**Hotel Booking Analysis**
 
-##Overview
+**Overview**
 
 The hotel industry generated vast amounts of data related to bookings, customer preferences, and various operational aspects. This project aimed to analyze hotel booking data to uncover hidden patterns, trends, and insights. By leveraging data analytics techniques, we sought to gain a deeper understanding of customer behavior, booking patterns, and factors influencing hotel occupancy.
 
-Purpose
+**Purpose**
 
 The primary objective of this project was to extract valuable insights from the hotel booking data and identify hidden patterns that could assist in making informed decisions. By examining factors such as booking frequency, seasonality, customer demographics, and reservation channels, we aimed to provide hoteliers with actionable information to optimize their operations, enhance customer experiences, and maximize revenue.
 
-Methodology
+**Methodology**
 
 To analyze the hotel booking data, employed various exploratory data analysis techniques. Preprocessed the data, handled missing values, and performed feature engineering as necessary. Exploratory visualizations and statistical analyses identify patterns and correlations in the data.  
 
-Expected Outcome
+**Expected Outcome**
 
 Through this analysis, anticipated uncovering several valuable insights. These included identifying peak booking seasons, understanding the impact of different booking channels on occupancy rates, discovering trends in customer preferences, and uncovering patterns in cancellations or no-shows. The analysis provided hoteliers with actionable recommendations to optimize their pricing strategies, marketing campaigns, and resource allocation.
 
 
-Getting Started
+**Getting Started**
 
 To replicate or contribute to this analysis, interested individuals referred to the instructions in the repository's README file. It provided guidelines on setting up the necessary environment, accessing the datasets, and running the analysis code.
 
