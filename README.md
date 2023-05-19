@@ -10,7 +10,7 @@ The primary objective of this project was to extract valuable insights from the 
 
 **Methodology**
 
-To analyze the hotel booking data, employed various exploratory data analysis techniques. Preprocessed the data, handled missing values, and performed feature engineering as necessary. Exploratory visualizations and statistical analyses identify patterns and correlations in the data.  
+To analyze the hotel booking data, employed various exploratory data analysis techniques. Preprocessed the data, handled missing values, and performed feature engineering as necessary. Exploratory visualizations and statistical analyses identify patterns and correlations in the data.  Employed tableua for made beautiful visualized dashboards.
 
 **Expected Outcome**
 
